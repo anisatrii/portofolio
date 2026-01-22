@@ -10,3 +10,6 @@
 section {
   padding-top: 5rem;
 }
+
+.navbar {
+  z-index: 9999;
